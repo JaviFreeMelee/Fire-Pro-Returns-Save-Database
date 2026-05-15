@@ -4,6 +4,6 @@ Import logos with:
 
 https://github.com/freem/FPRLogoViewer/releases
 
-Save data guide:
+Guide for console players:
 
-https://youtu.be/oZoDLqe1_LE?si=xFqmD_vtgBG8uRWn
+[https://youtu.be/oZoDLqe1_LE?si=xFqmD_vtgBG8uRWn](https://www.youtube.com/watch?v=oZoDLqe1_LE&t=232s)
